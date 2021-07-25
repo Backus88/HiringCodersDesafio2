@@ -47,7 +47,7 @@ export default class Cadastro extends React.Component {
                     Numero:<br></br> <input name="numero" value={this.state.numero} onChange={this.handleChange}/>
                     </label><br></br>
                 
-                    <button type="submit">Sign In</button>
+                    <button type="submit">Enviar</button>
                 </form>
                 </section>
       );

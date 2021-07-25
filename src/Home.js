@@ -12,7 +12,7 @@ function App(props) {
              <button onClick={() => props.history.push("/Cadastro")}>Cadastro</button>
              <button onClick={() => props.history.push("/NovosItems")}>NovosItems</button>
          </div>
-         </section>
+    </section>
   );
 }
 

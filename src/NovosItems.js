@@ -43,7 +43,7 @@ export default class NovosItems extends React.Component {
                     Imagem:<br></br> <input name="imagem" value={this.state.imagem} onChange={this.handleChange}/>
                     </label><br></br>
 
-                    <button type="submit">Sign In</button>
+                    <button type="submit">Enviar</button>
                 </form>
             </section>
       );
